@@ -1,0 +1,8 @@
+selenium
+PyPDF2
+validators
+chromedriver-autoinstaller
+pyyaml
+logging
+html2text
+tqdm
